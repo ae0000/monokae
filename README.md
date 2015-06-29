@@ -1,5 +1,9 @@
-# monokae-syntax theme
+# monokae theme
 
-A short description of your theme.
+ This version of monokai is simpler than the normal monokai.
+ Many styles have been kept the same colour. To my mind this makes the overall
+ look and feel easier on the eyes.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+ I've ported the colours and ideas from the gvim version of monokai.
+
+![A screenshot](https://raw.githubusercontent.com/ae0000/monokae/master/screenshot.png)
