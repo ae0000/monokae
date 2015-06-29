@@ -1,7 +1,7 @@
 {
   "name": "monokae",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Like monokai, but simpler.. closer to gvim monokai",
   "repository": "https://github.com/ae0000/monokae",
   "license": "MIT",
